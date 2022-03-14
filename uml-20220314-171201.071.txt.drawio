@@ -1,0 +1,147 @@
+<mxGraphModel dx="0" dy="0" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" math="0" shadow="0">
+    <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <UserObject id="description-1647249121073-1" label="&lt;font style=&quot;font-size: 28px&quot; color=&quot;#000000&quot; &gt;&lt;b&gt;接口F069&lt;/b&gt;&lt;/font&gt;">
+            <mxCell style="text;fillColor=none;verticalAlign=bottom;verticalLabelPosition=top;whiteSpace=wrap;labelPosition=center;rounded=0;html=1;strokeColor=none;align=left;" vertex="1" parent="1">
+                <mxGeometry x="0" y="0" width="1000.00" height="20" as="geometry"/>
+            </mxCell>
+        </UserObject>
+        <UserObject id="lifeline-1647249121073-2" label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口经销商&lt;/b&gt;&lt;/font&gt;" tooltip="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口经销商&lt;/b&gt;&lt;/font&gt;">
+            <mxCell style="container=1;fillColor=#DAE8FC;whiteSpace=wrap;shape=umlLifeline;size=40;perimeter=lifelinePerimeter;outlineConnect=0;html=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+                <mxGeometry x="0.00" y="30" width="100" height="412.00" as="geometry"/>
+            </mxCell>
+        </UserObject>
+        <UserObject id="lifeline-1647249121073-3" label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口DOL&lt;/b&gt;&lt;/font&gt;" tooltip="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口DOL&lt;/b&gt;&lt;/font&gt;">
+            <mxCell style="container=1;fillColor=#DAE8FC;whiteSpace=wrap;shape=umlLifeline;size=40;perimeter=lifelinePerimeter;outlineConnect=0;html=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+                <mxGeometry x="300.00" y="30" width="100" height="412.00" as="geometry"/>
+            </mxCell>
+        </UserObject>
+        <UserObject id="lifeline-1647249121073-4" label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口ESB&lt;/b&gt;&lt;/font&gt;" tooltip="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口ESB&lt;/b&gt;&lt;/font&gt;">
+            <mxCell style="container=1;fillColor=#DAE8FC;whiteSpace=wrap;shape=umlLifeline;size=40;perimeter=lifelinePerimeter;outlineConnect=0;html=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+                <mxGeometry x="600.00" y="30" width="100" height="412.00" as="geometry"/>
+            </mxCell>
+        </UserObject>
+        <UserObject id="lifeline-1647249121073-5" label="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口SAP&lt;/b&gt;&lt;/font&gt;" tooltip="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口SAP&lt;/b&gt;&lt;/font&gt;">
+            <mxCell style="container=1;fillColor=#DAE8FC;whiteSpace=wrap;shape=umlLifeline;size=40;perimeter=lifelinePerimeter;outlineConnect=0;html=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+                <mxGeometry x="900.00" y="30" width="100" height="412.00" as="geometry"/>
+            </mxCell>
+        </UserObject>
+        <UserObject id="activation-1647249121073-6" label="" tooltip="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口经销商&lt;/b&gt;&lt;/font&gt;">
+            <mxCell style="perimeter=orthogonalPerimeter;html=1;points=[];" vertex="1" parent="1">
+                <mxGeometry x="45.00" y="100.50" width="10" height="25.00" as="geometry"/>
+            </mxCell>
+        </UserObject>
+        <UserObject id="activation-1647249121073-7" label="" tooltip="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口DOL&lt;/b&gt;&lt;/font&gt;">
+            <mxCell style="perimeter=orthogonalPerimeter;html=1;points=[];" vertex="1" parent="1">
+                <mxGeometry x="345.00" y="100.50" width="10" height="25.00" as="geometry"/>
+            </mxCell>
+        </UserObject>
+        <UserObject id="activation-1647249121073-8" label="" tooltip="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口DOL&lt;/b&gt;&lt;/font&gt;">
+            <mxCell style="perimeter=orthogonalPerimeter;html=1;points=[];" vertex="1" parent="1">
+                <mxGeometry x="345.00" y="160.50" width="10" height="25.00" as="geometry"/>
+            </mxCell>
+        </UserObject>
+        <UserObject id="activation-1647249121073-9" label="" tooltip="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口DOL&lt;/b&gt;&lt;/font&gt;">
+            <mxCell style="perimeter=orthogonalPerimeter;html=1;points=[];" vertex="1" parent="1">
+                <mxGeometry x="345.00" y="226.00" width="10" height="36.00" as="geometry"/>
+            </mxCell>
+        </UserObject>
+        <UserObject id="activation-1647249121073-10" label="" tooltip="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口DOL&lt;/b&gt;&lt;/font&gt;">
+            <mxCell style="perimeter=orthogonalPerimeter;html=1;points=[];" vertex="1" parent="1">
+                <mxGeometry x="345.00" y="320.00" width="10" height="36.00" as="geometry"/>
+            </mxCell>
+        </UserObject>
+        <UserObject id="activation-1647249121073-11" label="" tooltip="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口DOL&lt;/b&gt;&lt;/font&gt;">
+            <mxCell style="perimeter=orthogonalPerimeter;html=1;points=[];" vertex="1" parent="1">
+                <mxGeometry x="345.00" y="392.00" width="10" height="25.00" as="geometry"/>
+            </mxCell>
+        </UserObject>
+        <UserObject id="activation-1647249121073-12" label="" tooltip="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口ESB&lt;/b&gt;&lt;/font&gt;">
+            <mxCell style="perimeter=orthogonalPerimeter;html=1;points=[];" vertex="1" parent="1">
+                <mxGeometry x="645.00" y="226.00" width="10" height="166.00" as="geometry"/>
+            </mxCell>
+        </UserObject>
+        <UserObject id="activation-1647249121073-13" label="" tooltip="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;接口SAP&lt;/b&gt;&lt;/font&gt;">
+            <mxCell style="perimeter=orthogonalPerimeter;html=1;points=[];" vertex="1" parent="1">
+                <mxGeometry x="945.00" y="273.00" width="10" height="36.00" as="geometry"/>
+            </mxCell>
+        </UserObject>
+        <UserObject id="message-1647249121073-14" label="&lt;font style=&quot;font-size: 11px&quot;&gt;经销商在DOL系统发起call车请求&lt;br/&gt;DOL在系统内完成配车&lt;br/&gt;&lt;/font&gt;">
+            <mxCell style="endFill=0;html=1;endArrow=open;" parent="1" edge="1">
+                <mxGeometry relative="1" as="geometry">
+                    <mxPoint x="55.00" y="100.50" as="sourcePoint"/>
+                    <mxPoint x="345.00" y="100.50" as="targetPoint"/>
+                </mxGeometry>
+            </mxCell>
+        </UserObject>
+        <UserObject id="message-1647249121073-15" label="&lt;font style=&quot;font-size: 11px&quot;&gt;DOL发起call车请求&lt;br/&gt;将call车数据写入DOL DB&lt;br/&gt;&lt;/font&gt;">
+            <mxCell style="endFill=1;rounded=0;html=1;endArrow=block;align=left;" parent="1" edge="1">
+                <mxGeometry relative="1" as="geometry">
+                    <mxPoint x="355.00" y="160.50" as="sourcePoint"/>
+                    <mxPoint x="355.00" y="185.50" as="targetPoint"/>
+                    <Array as="points">
+                        <mxPoint x="375.00" y="160.50"/>
+                        <mxPoint x="375.00" y="185.50"/>
+                    </Array>
+                </mxGeometry>
+            </mxCell>
+        </UserObject>
+        <UserObject id="message-1647249121073-16" label="&lt;font style=&quot;font-size: 11px&quot;&gt;ESB每秒捞取20条call车数据&lt;br/&gt;&lt;/font&gt;">
+            <mxCell style="endFill=1;html=1;endArrow=block;" parent="1" edge="1">
+                <mxGeometry relative="1" as="geometry">
+                    <mxPoint x="645.00" y="226.00" as="sourcePoint"/>
+                    <mxPoint x="355.00" y="226.00" as="targetPoint"/>
+                </mxGeometry>
+            </mxCell>
+        </UserObject>
+        <UserObject id="message-1647249121073-17" label="&lt;font style=&quot;font-size: 11px&quot;&gt;返回 call车数据&lt;br/&gt;数据到线程池中等待处理&lt;br/&gt;&lt;/font&gt;">
+            <mxCell style="dashed=1;endFill=0;html=1;endArrow=open;" parent="1" edge="1">
+                <mxGeometry relative="1" as="geometry">
+                    <mxPoint x="355.00" y="262.00" as="sourcePoint"/>
+                    <mxPoint x="645.00" y="262.00" as="targetPoint"/>
+                </mxGeometry>
+            </mxCell>
+        </UserObject>
+        <UserObject id="message-1647249121073-18" label="&lt;font style=&quot;font-size: 11px&quot;&gt;异步向SAP发起call车请求&lt;br/&gt;RFC: ZDMS_CALL_OFF_MAIN&lt;br/&gt;&lt;/font&gt;">
+            <mxCell style="endFill=1;html=1;endArrow=block;" parent="1" edge="1">
+                <mxGeometry relative="1" as="geometry">
+                    <mxPoint x="655.00" y="273.00" as="sourcePoint"/>
+                    <mxPoint x="945.00" y="273.00" as="targetPoint"/>
+                </mxGeometry>
+            </mxCell>
+        </UserObject>
+        <UserObject id="message-1647249121073-19" label="&lt;font style=&quot;font-size: 11px&quot;&gt;SAP返回call车结果/SO号/SO创建时间&lt;br/&gt;&lt;/font&gt;">
+            <mxCell style="dashed=1;endFill=0;html=1;endArrow=open;" parent="1" edge="1">
+                <mxGeometry relative="1" as="geometry">
+                    <mxPoint x="945.00" y="309.00" as="sourcePoint"/>
+                    <mxPoint x="655.00" y="309.00" as="targetPoint"/>
+                </mxGeometry>
+            </mxCell>
+        </UserObject>
+        <UserObject id="message-1647249121073-20" label="&lt;font style=&quot;font-size: 11px&quot;&gt;ESB call DOL soap服务&lt;br/&gt;推送SAP call车结果&lt;br/&gt;&lt;/font&gt;">
+            <mxCell style="endFill=1;html=1;endArrow=block;" parent="1" edge="1">
+                <mxGeometry relative="1" as="geometry">
+                    <mxPoint x="645.00" y="320.00" as="sourcePoint"/>
+                    <mxPoint x="355.00" y="320.00" as="targetPoint"/>
+                </mxGeometry>
+            </mxCell>
+        </UserObject>
+        <UserObject id="message-1647249121073-21" label="&lt;font style=&quot;font-size: 11px&quot;&gt;DOL 返回接收状态&lt;br/&gt;&lt;/font&gt;">
+            <mxCell style="dashed=1;endFill=0;html=1;endArrow=open;" parent="1" edge="1">
+                <mxGeometry relative="1" as="geometry">
+                    <mxPoint x="355.00" y="356.00" as="sourcePoint"/>
+                    <mxPoint x="645.00" y="356.00" as="targetPoint"/>
+                </mxGeometry>
+            </mxCell>
+        </UserObject>
+        <UserObject id="message-1647249121073-22" label="&lt;font style=&quot;font-size: 11px&quot;&gt;DOL 将SAP call车成功/失败状态标识更新到DOL DB&lt;br/&gt;&lt;/font&gt;">
+            <mxCell style="endFill=0;html=1;endArrow=open;" parent="1" edge="1">
+                <mxGeometry relative="1" as="geometry">
+                    <mxPoint x="645.00" y="392.00" as="sourcePoint"/>
+                    <mxPoint x="355.00" y="392.00" as="targetPoint"/>
+                </mxGeometry>
+            </mxCell>
+        </UserObject>
+    </root>
+</mxGraphModel>
